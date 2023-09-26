@@ -1,0 +1,62 @@
+body {
+  color: white;
+  background-color: #B0B0B0;
+  font-family: Lato, italic;
+  text-align: left;
+  font-style: italic; 
+}
+
+p {
+  font-size:21pt;
+  text-align: center;
+
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: left;
+  font-size:15pt;
+}
+
+h1 {
+  color: white;
+  text-align: center  ;
+  font-family: impact;
+  font-size: 50px;
+}
+
+h2 {
+  padding-top: 50px;
+  font-family: impact;
+}
+
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  text-align: center; 
+}
+
+
+table, th, tr {
+  font-size: 30px ;
+  text-align: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+.text-decoration {
+  text-decoration: none;
+}
+
+th, td {
+  background-color: #63B8FF;
+}
+
+
+  
+
+
+
