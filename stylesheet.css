@@ -1,6 +1,8 @@
 body {
   color: white;
-  background-color: #B0B0B0;
+  background-image: url(smashed-cookie-with-copy-space-blue-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: Lato, italic;
   text-align: left;
   font-style: italic; 
